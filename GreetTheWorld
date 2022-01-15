@@ -1,10 +1,10 @@
 /* put your code here, using the example */
 # include <iostream> using namespace std.
-if...
+if (time () 0<=43199
 {
 cout<<"Good Morning World"
 }
-if...
-{
-cout<<"Hello World"
+if time() 43200<=64799
+ {
+cout<<"Good Afternoon World"
 }
